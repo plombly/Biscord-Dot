@@ -18,7 +18,7 @@ Follow the install instructions below, to get started!
 
 4. rm Biscord-Dot -r
 
-5. mysql -u root -p root < setupdb.sql
+5. mysql -u root -p < setupdb.sql
 
 6. mysql -u biscord -p 7zC%2Qbms7FN biscord << b_servers.sql
 
