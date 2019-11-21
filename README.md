@@ -2,7 +2,7 @@
 
 Biscord Dot is an all inclusive bot, with MySQL database support, passwords, music, a web panel, and much more!
 
-***WARNING*** **THIS BOT DOES CHAT LOGGING** ***WARNING***
+/***WARNING***/ **THIS BOT DOES CHAT LOGGING** /***WARNING***/
 
 **Please have MySQL already installed**
 
