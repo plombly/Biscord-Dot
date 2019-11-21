@@ -16,10 +16,12 @@ Follow the install instructions below, to get started!
 
 3. mysql -u root -p root < setupdb.sql
 
-4. chmod -R 755 /home/biscord; chown -R root: /home/biscord
+4. mysql -u biscord -p 7zC%2Qbms7FN biscord << b_servers.sql
 
-5. input your credentials into ./data/settings.json
+5. chmod -R 755 /home/biscord; chown -R root: /home/biscord
 
-6. set the database passwords in ./data/commands.json (there are about 10 instanses (fill dbpasshere) this can be changed at any time)
+6. input your credentials into ./data/settings.json
 
-7. node bot.js
+7. (not required) set the database passwords in ./data/commands.json (Default MySQL password for the Biscord user is: 7zC%2Qbms7FN)(there are about 10 instanses (fill dbpasshere) this can be changed at any time)
+
+8. node bot.js
