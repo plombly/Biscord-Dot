@@ -1,1 +1,0 @@
-screen -dmS "biscord dot" node bot.js
