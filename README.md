@@ -10,7 +10,7 @@ Biscord Dot is an all inclusive bot, with MySQL database support, passwords, mus
 
 Follow the install instructions below, to get started!
 
-1. sudo apt-get install -y git node ffmpeg
+1. sudo apt-get install -y git nodejs ffmpeg
 
 2. mkdir -p /home/biscord; cd /home/biscord
 
